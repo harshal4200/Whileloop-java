@@ -8,7 +8,8 @@ public class while_factorial {
         while (i>1){
             factorial =i*factorial;
             i--;
-            System.out.println(factorial);
+           
         }
+  System.out.println(factorial);
     }
 }
